@@ -24,4 +24,4 @@ ex6: Week 7, Support Vector Machines
 
 ex7: Week 8, K-Means Clustoring and PCA
 
-ex8: Week 9, Anomaly Detection and Recommander Systems 
+ex8: Week 9, Anomaly Detection and Recommender Systems 
