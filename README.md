@@ -4,7 +4,7 @@ Course taken on May & June, 2018.
 
 https://www.coursera.org/learn/machine-learning/home/welcome
 
-*All Rights belong to deeplearning.ai*
+*All Rights belong to Andrew Ng*
 
 
 
