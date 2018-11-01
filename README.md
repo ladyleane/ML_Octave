@@ -1,14 +1,14 @@
-This is the Programming Assignment for Coursera Course: Machine Learning by Andrew Ng.
+**This is the Programming Assignment for Coursera Course: Machine Learning by Andrew Ng.**
 
 Course taken on May & June, 2018.
 
-
-
 https://www.coursera.org/learn/machine-learning/home/welcome
 
+*All Rights belong to deeplearning.ai*
 
 
-Programming Assignment Contents:
+
+## Programming Assignment Contents:
 
 ex1: Week 2, Linear Regression
 
